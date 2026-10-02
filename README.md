@@ -302,3 +302,4 @@ Comprehensive logging across:
 
 ---
 
+<img width="1602" height="967" alt="image" src="https://github.com/user-attachments/assets/bc5091e5-534b-4584-ba9a-61dce8595625" />
